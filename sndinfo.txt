@@ -1,0 +1,2 @@
+weapon/getskull GETSKL
+weapon/fireskull FIRESKL
